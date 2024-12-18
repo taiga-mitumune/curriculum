@@ -13,7 +13,7 @@
 
 （２）MACアドレス：9876.5432.10FE
 
-インターフェースID：9A 76 54 FF FE 10 FE
+インターフェースID：96 76 54 FF FE 10 FE
 
 （３）MACアドレス：FFFF.FFFF.FFFF
 
